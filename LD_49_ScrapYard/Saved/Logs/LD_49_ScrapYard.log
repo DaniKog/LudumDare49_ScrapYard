@@ -23023,3 +23023,9 @@ Script call stack:
 [2021.10.03-14.16.01:364][878]LogSlate: Window 'Game_Cube_Child6' being destroyed
 [2021.10.03-14.16.01:367][878]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2021.10.03-14.16.01:368][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.03-14.16.25:543][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.03-14.16.25:557][573]LogSavePackage: Moving '../../../../../Projects/GamJams/2021LudumDare49/LudumDare49/LudumDare49_ScrapYard/LD_49_ScrapYard/Saved/Main_CubePlacer7B04FE61476A8210823930AAFAB7A8BF.tmp' to '../../../../../Projects/GamJams/2021LudumDare49/LudumDare49/LudumDare49_ScrapYard/LD_49_ScrapYard/Content/Levels/Main_CubePlacer.umap'
+[2021.10.03-14.16.25:579][573]LogSavePackage: Moving '../../../../../Projects/GamJams/2021LudumDare49/LudumDare49/LudumDare49_ScrapYard/LD_49_ScrapYard/Saved/Main_CubePlacer_BuiltDataB81D05B64F19AA554E28EDB853841C9A.tmp' to '../../../../../Projects/GamJams/2021LudumDare49/LudumDare49/LudumDare49_ScrapYard/LD_49_ScrapYard/Content/Levels/Main_CubePlacer_BuiltData.uasset'
+[2021.10.03-14.16.25:598][573]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.03-14.16.25:598][573]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_CubePlacer_BuiltData.Main_CubePlacer_BuiltData
+[2021.10.03-14.16.25:598][573]LogContentValidation: Display: Validating World /Game/Levels/Main_CubePlacer.Main_CubePlacer
