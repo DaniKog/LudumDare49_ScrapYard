@@ -23004,3 +23004,22 @@ Script call stack:
 [2021.10.03-14.15.09:293][246]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.03-14.15.09:293][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_CubePlacer_BuiltData.Main_CubePlacer_BuiltData
 [2021.10.03-14.15.09:293][246]LogContentValidation: Display: Validating World /Game/Levels/Main_CubePlacer.Main_CubePlacer
+[2021.10.03-14.15.41:780][817]LogSlate: Window 'CubeHandler' being destroyed
+[2021.10.03-14.15.41:784][817]LogSlate: Window 'CubeHandler' being destroyed
+[2021.10.03-14.15.41:789][817]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.03-14.15.41:789][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.03-14.15.51:911][414]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game_Cube_Child6.Game_Cube_Child6
+[2021.10.03-14.15.55:195][587]LogSlate: Window 'Game_Cube_Child6' being destroyed
+[2021.10.03-14.15.55:199][587]LogSlate: Window 'Game_Cube_Child6' being destroyed
+[2021.10.03-14.15.55:203][587]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.03-14.15.55:203][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.03-14.15.58:112][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game_Cube_Child6.Game_Cube_Child6
+[2021.10.03-14.15.59:410][801]BlueprintLog: New page: Compile Game_Cube_Child6
+[2021.10.03-14.15.59:439][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.03-14.16.00:135][824]LogSavePackage: Moving '../../../../../Projects/GamJams/2021LudumDare49/LudumDare49/LudumDare49_ScrapYard/LD_49_ScrapYard/Saved/Game_Cube_Child6F4A88AC94161FA61E37219857DAA2E8E.tmp' to '../../../../../Projects/GamJams/2021LudumDare49/LudumDare49/LudumDare49_ScrapYard/LD_49_ScrapYard/Content/Blueprints/Game_Cube_Child6.uasset'
+[2021.10.03-14.16.00:181][824]AssetCheck: New page: Asset Save: Game_Cube_Child6
+[2021.10.03-14.16.00:181][824]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Game_Cube_Child6.Game_Cube_Child6
+[2021.10.03-14.16.01:361][878]LogSlate: Window 'Game_Cube_Child6' being destroyed
+[2021.10.03-14.16.01:364][878]LogSlate: Window 'Game_Cube_Child6' being destroyed
+[2021.10.03-14.16.01:367][878]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.03-14.16.01:368][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
